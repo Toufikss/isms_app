@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "username": "alice",
+      "username": "Amina",
       "password_hash": "3c29b774a353dab2c6a3f03f08c9d8858c281597576e291f99c31989b1d15dba",
       "created_date": "2025-08-11T08:05:00"
     }
@@ -40,7 +40,7 @@
       "description": "Serveur principal stockant les données clients.",
       "asset_type": "Matériel",
       "criticality_level": "Critique",
-      "owner": "Alice Dupont",
+      "owner": "Amina sassi",
       "location": "Data Center Paris",
       "created_date": "2025-01-20T08:00:00",
       "updated_date": "2025-06-01T09:00:00"
@@ -51,7 +51,7 @@
       "description": "Application web utilisée pour la gestion clients.",
       "asset_type": "Logiciel",
       "criticality_level": "Élevé",
-      "owner": "Bob Martin",
+      "owner": "Amine salah",
       "location": "Cloud AWS",
       "created_date": "2025-01-25T08:30:00",
       "updated_date": "2025-05-15T09:30:00"
@@ -93,7 +93,7 @@
       "category": "Technique",
       "priority": "Critique",
       "status": "À faire",
-      "responsible_person": "Alice Dupont",
+      "responsible_person": "Amina sassi",
       "due_date": "2025-08-30",
       "completion_date": null,
       "notes": "Priorité élevée pour sécuriser les postes",
@@ -107,7 +107,7 @@
       "category": "Administrative",
       "priority": "Moyenne",
       "status": "En cours",
-      "responsible_person": "Bob Martin",
+      "responsible_person": "Amine salah",
       "due_date": "2025-09-15",
       "completion_date": null,
       "notes": "Sessions prévues chaque trimestre",
@@ -130,3 +130,4 @@
     }
   ]
 }
+
